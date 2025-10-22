@@ -34,11 +34,21 @@ The following references give a good guide to sensitivity analysis and related t
 
 :book: [Interpretability for Industry 4.0: Statistical and Machine Learning Approaches](https://link.springer.com/referencework/10.1007/978-3-319-12385-1), A. Lepore, B. Palumbo and J-M. Poggi (Eds), Springer, 2022
 
+:book: [Borgonovo, E. (2017). Sensitivity Analysis An Introduction for the Management Scientist](https://doi.org/10.1007/978-3-319-52259-3), (E. Borgnovo, Ed.). Springer.
+
+:book: Cacuci, D. G. (2003). Sensitivity and uncertainty analysis. Volume I, Theory. Chapman & Hall/CRC Press.
+
+:book: Cacuci, D. G., Ionescu-Bujor, M., & Navon, M. (2003). Sensitivity and Uncertainty Analysis, Volume II: Applications to Large-Scale Systems. CRC Press.
+
+:book: de Rocquigny, E., Devictor, Nicolas., & Tarantola, Stefano. (2008). Uncertainty in industrial practice: A guide to quantitative uncertainty management. John Wiley & Sons.
+
+:book: Kozlova, M., & Yeomans, J. S. (Eds.). (2024). Sensitivity Analysis for Business, Technology, and Policymaking (1st edition). Routledge.
+
+:book: Saltelli, A., Tarantola, S., Campolongo, F., & Ratto, M. (2004). [Sensitivity Analysis in Practice.](https://doi.org/10.1002/0470870958), John Wiley & Sons, Ltd.
+
 ## Links
 
 :link: [GdR MASCOT-NUM]((https://uq.math.cnrs.fr/) is a French Research Group dealing with stochastic methods for the analysis of numerical codes. Its main objective is to coordinate research efforts in this scientific area, which is often called design, modeling and analysis of computer experiments.
-
-:link: [andreasaltelli.eu](http://www.andreasaltelli.eu/) is the personal page of veteran sensitivity analysis researcher Andrea Saltelli, and hosts many useful resources (inlcuding books) on sensitivity analysis.
 
 ## Proceedings of SAMO conferences
 
@@ -63,4 +73,6 @@ The following references give a good guide to sensitivity analysis and related t
 :book: [Proceedings of SAMO 2016, La Reunion, France](../proceedings/Proceedings_SAMO_2016_La_Reunion.pdf)
 
 :book: [Proceedings of SAMO 2019, Barcelona, Spain](../proceedings/Proceedings_SAMO_2019_Barcelona.pdf)
+
+:book: [Proceedings of SAMO 2025, Grenoble, France](../proceedings/PROCCEDINGS_SAMO_2025_Grenoble.pdf)
 
