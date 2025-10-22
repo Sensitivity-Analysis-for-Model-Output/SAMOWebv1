@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "SAMO"
 subtitle: ""
-hero_media: samo2019.jpg
+hero_media: samo_2019_the_blue_t_shirts.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
