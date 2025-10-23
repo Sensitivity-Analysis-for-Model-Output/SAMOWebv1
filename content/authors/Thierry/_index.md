@@ -5,7 +5,7 @@ education:
   - course: PhD in SA
     institution: University of ?, Earth
     year: 2000
-email: "email@email.com"
+email: "thierry.mara@univ-reunion.fr"
 interests:
 - Sensitivity analysis
 - Completing profiles
@@ -14,24 +14,9 @@ organizations:
   url: "https://samo2022.math.fsu.edu/"
 role: MIA
 social:
-- icon: globe
-  icon_pack: fas
-  link: https://samo2022.math.fsu.edu/
 - icon: envelope
   icon_pack: fas
-  link: mailto:email@email.com
-- icon: researchgate
-  icon_pack: ai
-  link: https://samo2022.math.fsu.edu/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://samo2022.math.fsu.edu/
-- icon: github
-  icon_pack: fab
-  link: https://samo2022.math.fsu.edu/
-- icon: twitter
-  icon_pack: fab
-  link: https://samo2022.math.fsu.edu/
+  link: mailto:thierry.mara@univ-reunion.fr
 superuser: false
 title: Thierry Mara
 user_groups:

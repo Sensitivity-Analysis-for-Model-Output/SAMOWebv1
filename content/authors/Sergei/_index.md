@@ -16,22 +16,10 @@ role: MIA
 social:
 - icon: globe
   icon_pack: fas
-  link: https://samo2022.math.fsu.edu/
+  link: https://profiles.imperial.ac.uk/s.kucherenko/about
 - icon: envelope
   icon_pack: fas
-  link: mailto:email@email.com
-- icon: researchgate
-  icon_pack: ai
-  link: https://samo2022.math.fsu.edu/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://samo2022.math.fsu.edu/
-- icon: github
-  icon_pack: fab
-  link: https://samo2022.math.fsu.edu/
-- icon: twitter
-  icon_pack: fab
-  link: https://samo2022.math.fsu.edu/
+  link: mailto:s.kucherenko@imperial.ac.uk
 superuser: false
 title: Sergei Kucherenko
 user_groups:

@@ -27,6 +27,9 @@ organizations:
 - name: University of Saskatchewan
   url: "https://www.usask.ca/"
 social:
+- icon: globe
+  icon_pack: fas
+  link: https://research-groups.usask.ca/razavi/index.php
 - icon: envelope
   icon_pack: fas
   link: mailto:saman.razavi@anu.edu.au

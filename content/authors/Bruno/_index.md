@@ -16,22 +16,10 @@ role: MIA
 social:
 - icon: globe
   icon_pack: fas
-  link: https://samo2022.math.fsu.edu/
+  link: https://sudret.ibk.ethz.ch/the-chair/people/prof-dr-bruno-sudret.html
 - icon: envelope
   icon_pack: fas
-  link: mailto:email@email.com
-- icon: researchgate
-  icon_pack: ai
-  link: https://samo2022.math.fsu.edu/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://samo2022.math.fsu.edu/
-- icon: github
-  icon_pack: fab
-  link: https://samo2022.math.fsu.edu/
-- icon: twitter
-  icon_pack: fab
-  link: https://samo2022.math.fsu.edu/
+  link: mailto:sudret@ethz.ch
 superuser: false
 title: Bruno Sudret
 user_groups:
