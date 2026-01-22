@@ -24,7 +24,7 @@ social:
 superuser: false
 title: Anthony (Tony) John Jakeman
 user_groups:
-- Scientific Committee
+- Former members
 ---
 
 Emeritus Professor, Australian National University, Tony is an Environmental Modeller with over 450 publications and has been a principal supervisor to over 60 graduated PhD students. Since 1997 he has directed the iCAM Centre pursuing methods and applications of integrated modelling and assessment and decision support on water resource issues.
