@@ -4,6 +4,7 @@ content:
   - Executive Committee
   - Scientific Committee
   - Communication Committee
+  - Former members
 design:
   show_interests: false
   show_role: true
