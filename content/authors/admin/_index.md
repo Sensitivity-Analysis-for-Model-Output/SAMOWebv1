@@ -52,7 +52,7 @@ social:
 superuser: false
 title: Juliane Mai
 user_groups:
-- Scientific Committee
+- Former members
 - Communication Committee
 
 ---
