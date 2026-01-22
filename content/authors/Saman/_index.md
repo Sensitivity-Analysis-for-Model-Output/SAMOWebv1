@@ -42,7 +42,7 @@ social:
 superuser: false
 title: Saman Razavi
 user_groups:
-- Scientific Committee
+- Former members
 ---
 
 Dr Razavi’s research work is at the science-policy interface, bridging hydrological modelling and prediction of flood and drought to integrated management of water resources and decision and policy making. He is also an expert in systems and data sciences, sensitivity and uncertainty analysis, and machine learning.
