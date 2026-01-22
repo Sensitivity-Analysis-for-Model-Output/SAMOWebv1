@@ -23,7 +23,7 @@ social:
 superuser: false
 title: Qiongli Wu
 user_groups:
-- Scientific Committee
+- Former members
 ---
 
 I have a doctorate degree in Information Science from Wuhan University of China and another doctorate degree in Applied Mathematics from Ecole Centrale Paris of France. In 2014, after 6 years studied for my PhD and Post-doc in France, I returned to work in China as full-time associate professor at Institute of Precision Measurement Science and Technology Innovation of the Chinese Academy of Sciences (APM of CAS, the former Wuhan Institute of Physics and Mathematics). The APM is featured by its research excellence in mathematics physics and its application. My research interest includes applied statistics, mathematical modelling and sensitivity analysis. My work covers theoretical algorithm development, methodology design and applications.
