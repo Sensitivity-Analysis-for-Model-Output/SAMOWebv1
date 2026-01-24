@@ -5,7 +5,7 @@ bio: Associate Professor (Tenure Track).
 email: "Mariia.Kozlova@lut.fim"
 organizations:
 - name: LUT Business School of Lappeenranta, Finland
-  url: "https://www.uib.no/en/persons/Andrea.Saltelli"
+  url: "http://www.lut.fi/en"
 social:
 - icon: envelope
   icon_pack: fas
@@ -20,4 +20,8 @@ user_groups:
 
 ---
 
-Longer bio to add. 
+I like to get to the bottom of things, whether it's investment analysis or engineering optimization. 
+
+It's frustrating to see decision-makers stuck in the passenger seat, passively evaluating static projects. I'm inviting them to the driver's seat, redesigning the models into a multitude of choices and helping find what really works under uncertainty.
+
+I'm open to research collaborations, guest lectures, and occasional consulting. Get in touch! 
