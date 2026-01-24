@@ -14,7 +14,6 @@ interests:
 organizations:
 - name: Florida State University
   url: "https://www.math.fsu.edu/People/faculty.php?u=okten"
-role: Co-president
 social:
 - icon: envelope
   icon_pack: fas
@@ -28,7 +27,6 @@ social:
 superuser: false
 title: Giray Ökten
 user_groups:
-- Executive Committee
 - Scientific Committee
 ---
 
