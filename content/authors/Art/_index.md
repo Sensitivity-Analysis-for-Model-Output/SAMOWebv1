@@ -1,8 +1,7 @@
 ---
 authors:
 - Art B. Owen
-bio: Max H. Stein Professor of Statistics. 
-Department of Statistics, School of Humanities and Sciences, Stanford University, California, United States.
+bio: Max H. Stein Professor of Statistics. Department of Statistics, School of Humanities and Sciences, Stanford University, California, United States.
 organizations:
 - name: School of Humanities and Sciences, Stanford University, California, United States.
   url: "https://www.stanford.edu/"
