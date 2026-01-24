@@ -2,6 +2,24 @@
 authors:
 - Ivana Aleksovoska
 bio: Scientist (Project Officer) | European Commission – JRC | Linking EO, AI & sensitivity analysis for uncertainty-aware decision support in agri-food supply chains.
+education:
+  courses:
+  - course: PhD thesis, Atmospheric Sciences and Meteorology and MathematicsPhD thesis, Atmospheric Sciences and Meteorology and Mathematics
+    institution: Université de Toulouse
+    year: 2020
+  - course: Master's degree at Faculty of Electrical Engineering and Information technology, Applied mathematics in the field of electrical engineering and information technologyMaster's degree at Faculty of Electrical Engineering and Information technology, Applied mathematics in the field of electrical engineering and information technology
+    institution: Ss. Cyril and Methodius University in Skopje / Универзитет „Св. Кирил и Методиј“ во СкопјеSs. Cyril and Methodius University in Skopje / Универзитет „Св. Кирил и Методиј“ во Скопје
+    year: 2015
+interests:
+- Data Visualization
+- Presentations
+- Interpersonal Skills
+- Programming
+- Statistical Inference
+- Predictive Modeling
+- Data Analytics
+- Quantitative Analytics
+- Deep Learning
 organizations:
 - name: European Commission – JRC
   url: "https://commission.europa.eu/index_en"
