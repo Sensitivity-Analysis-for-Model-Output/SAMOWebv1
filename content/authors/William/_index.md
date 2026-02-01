@@ -40,7 +40,7 @@ social:
 superuser: false
 title: William Becker
 user_groups:
-
+- Former members
 ---
 
 I am a freelance data scientist working at the intersection between data, research and policy. I work for many international organisations, including the European Commission, and various UN agencies, with a particular specialisation in building (composite) indicator solutions. I am also a researcher in various fields, including sensitivity analysis.
