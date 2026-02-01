@@ -1,6 +1,6 @@
 title: SAMO | Sensitivity Analysis of Model Output
 baseurl: 'http://www.sensitivityanalysis.org/'
-copyright: '&copy; SAMO 2022'
+copyright: '&copy; SAMO {year}'
 enableGitInfo: no
 defaultContentLanguage: en
 hasCJKLanguage: no
