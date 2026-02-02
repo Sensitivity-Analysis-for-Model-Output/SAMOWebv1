@@ -1,6 +1,6 @@
 ---
 authors:
-- Ivana Aleksovoska
+- Ivana Aleksovska
 bio: Scientist (Project Officer) | European Commission – JRC | Linking EO, AI & sensitivity analysis for uncertainty-aware decision support in agri-food supply chains.
 education:
   courses:
@@ -43,7 +43,7 @@ I am a scientist working at the European Commission’s Joint Research Centre, f
 
 At the JRC, I contribute to research and innovation projects that combine remote-sensing technologies, simulation frameworks, and statistical learning to assess crop production, logistics, and post-war recovery dynamics, with a particular focus on Ukraine. My experience spans the integration of ensemble forecasting, uncertainty quantification and global sensitivity analysis, and agronomic analysis to translate scientific results into operational insights for resilience planning and support decision-making needs.
 
-Served as a Scientific Committee and Review Committee Member in 2026 for the JRC PubSy internal review of scientific manuscripts prior to external peer review.
-
 My goal is to connect science, technology, and policy in ways that foster resilience, transparency, and innovation, strengthening Europe’s capacity to anticipate risks, manage resources, and ensure food security through data-informed decision-making.
+
+Served as a Scientific Committee and Review Committee Member in 2026 for the JRC PubSy internal review of scientific manuscripts prior to external peer review.
 
