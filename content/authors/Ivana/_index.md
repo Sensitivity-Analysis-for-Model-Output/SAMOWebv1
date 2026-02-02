@@ -16,6 +16,13 @@ education:
       institution: "Faculty of Electrical Engineering and Information Technology, Skopje, North Macedonia"
       year: 2017
 
+experience:
+  - title: Scientific Committee Member & Review Committee Member
+    institution: Joint Research Centre (JRC)
+    year: 2026
+    description: >
+      JRC PubSy internal publication review process for scientific manuscripts
+      prior to external peer review.
     
 interests:
 - Sensitivity Analysis
