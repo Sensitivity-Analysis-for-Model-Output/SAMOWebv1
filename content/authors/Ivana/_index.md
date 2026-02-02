@@ -15,14 +15,6 @@ education:
     - course: "Master thesis, Applied Mathematics in Electrical Engineering and Information Technology. Title: Data Analysis by Multilinear Regression."
       institution: "Faculty of Electrical Engineering and Information Technology, Skopje, North Macedonia"
       year: 2017
-
-experience:
-  - title: Scientific Committee Member & Review Committee Member
-    institution: Joint Research Centre (JRC)
-    year: 2026
-    description: >
-      JRC PubSy internal publication review process for scientific manuscripts
-      prior to external peer review.
     
 interests:
 - Sensitivity Analysis
@@ -50,6 +42,8 @@ Passionate about applied mathematics.
 I am a scientist working at the European Commission’s Joint Research Centre, focusing on agricultural resilience, Earth observation, and data-driven decision support for sustainable food systems. My work connects meteorology, AI, operational research and supply-chain modelling to quantify uncertainty and strengthen agricultural monitoring under crisis and climate stress conditions.
 
 At the JRC, I contribute to research and innovation projects that combine remote-sensing technologies, simulation frameworks, and statistical learning to assess crop production, logistics, and post-war recovery dynamics, with a particular focus on Ukraine. My experience spans the integration of ensemble forecasting, uncertainty quantification and global sensitivity analysis, and agronomic analysis to translate scientific results into operational insights for resilience planning and support decision-making needs.
+
+Served as a Scientific Committee and Review Committee Member in 2026 for the JRC PubSy internal review of scientific manuscripts prior to external peer review.
 
 My goal is to connect science, technology, and policy in ways that foster resilience, transparency, and innovation, strengthening Europe’s capacity to anticipate risks, manage resources, and ensure food security through data-informed decision-making.
 
