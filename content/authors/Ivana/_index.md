@@ -11,15 +11,14 @@ education:
     institution: Ss. Cyril and Methodius University in Skopje / Универзитет „Св. Кирил и Методиј“ во СкопјеSs. Cyril and Methodius University in Skopje / Универзитет „Св. Кирил и Методиј“ во Скопје
     year: 2015
 interests:
-- Data Visualization
-- Presentations
-- Interpersonal Skills
-- Programming
-- Statistical Inference
-- Predictive Modeling
-- Data Analytics
-- Quantitative Analytics
+- Sensitivity Analysis
+- Uncertainty Quantification
+- Machine Learning
 - Deep Learning
+- Artificial Intelligence
+- Gaussian process modeling-Kriging
+- Data Science
+- Data Analysis
 organizations:
 - name: European Commission – JRC
   url: "https://commission.europa.eu/index_en"
