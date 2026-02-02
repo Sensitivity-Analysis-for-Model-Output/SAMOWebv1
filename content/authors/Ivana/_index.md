@@ -4,16 +4,13 @@ authors:
 bio: Scientist (Project Officer) | European Commission – JRC | Linking EO, AI & sensitivity analysis for uncertainty-aware decision support in agri-food supply chains.
 education:
   courses:
-  - course: PhD thesis, Atmospheric Sciences and Meteorology and Mathematics
-    title: “Improve short- and medium-term predictions of agronomic models by better taking into account the uncertainty of weather forecasts.”
+  - course: PhD thesis, Atmospheric Sciences and Meteorology and Mathematics. Title: “Improve short- and medium-term predictions of agronomic models by better taking into account the uncertainty of weather forecasts.”
     institution: University Paul Sabatier, Toulouse, France
     year: 2020
-  - course: Master thesis, Optimization, Modeling and Simulation, Supélec, France
-    title: “An implementation of the Informational Approach to Global Optimization (IAGO) using the Small (Matlab/Octave) Toolbox for Kriging.”
+  - course: Master thesis, Optimization, Modeling and Simulation, Supélec, France. Title: “An implementation of the Informational Approach to Global Optimization (IAGO) using the Small (Matlab/Octave) Toolbox for Kriging.”
     institution: Joint Master Program: ECP / ENS Cachan / ENSTA ParisTech / INSTN / UVSQ, France
     year: 2014
-  - course: Master thesis, Applied Mathematics in Electrical Engineering and Information Technology
-    title: “Data Analysis by Multilinear Regression.”
+  - course: Master thesis, Applied Mathematics in Electrical Engineering and Information Technology. Title: “Data Analysis by Multilinear Regression.”
     institution: Faculty of Electrical Engineering and Information Technology, Skopje, North Macedonia
     year: 2017
     
