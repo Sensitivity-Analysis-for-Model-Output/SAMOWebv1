@@ -2,7 +2,12 @@
 authors:
 - Mariia Kozlova
 bio: Associate Professor (Tenure Track).
-email: "Mariia.Kozlova@lut.fim"
+email: "Mariia.Kozlova@lut.fi"
+
+interests:
+- Democratizing sensitivity analysis
+- Visualization
+
 organizations:
 - name: LUT Business School of Lappeenranta, Finland
   url: "http://www.lut.fi/en"
