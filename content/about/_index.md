@@ -38,7 +38,7 @@ It aims to do this through the [SAMO conference series](/conferences), as well a
 
 ## SAMO Board
 
-The SAMO board is currently composed of 14 academics representing institutions across Europe, North America and Asia. Find out more [here](/people).
+The SAMO board is currently composed of 16 academics representing institutions across Europe, North America and Asia. Find out more [here](/people).
 
 ## Conferences
 
