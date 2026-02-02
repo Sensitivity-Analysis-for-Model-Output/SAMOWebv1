@@ -6,7 +6,7 @@ email: "Mariia.Kozlova@lut.fi"
 
 interests:
 - Democratizing sensitivity analysis
-- Visualization
+- SimDec (Simulation Decomposition)
 
 organizations:
 - name: LUT Business School of Lappeenranta, Finland
