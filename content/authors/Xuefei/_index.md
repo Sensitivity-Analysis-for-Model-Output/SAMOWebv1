@@ -2,6 +2,19 @@
 authors:
 - Xuefei Lu
 bio: Statistical Machine Learning Uncertainty Quantification Big Data Problems Bayesian Non-Parametrics, Uncertainty Quantification, Recherche opérationnel, Artificial Intelligence....
+
+education:
+  courses:
+    - course: PhD in Statistics
+      institution: Department of Decision Sciences, Bocconi University
+      year: 2019
+    
+interests:
+- Explainable machine learning
+- Sensitivity analysis
+- Uncertainty quantification
+- Operations research
+
 email: "xuefei.lu@skema.edu"
 organizations:
 - name: SKEMA Centre for Analytics and Management Science, Paris
@@ -16,10 +29,6 @@ user_groups:
 - Scientific Committee
 ---
 
-Xuefei Lu is an associate professor at SKEMA Business School.
+Xuefei graduated with a PhD in Statistics ('Cum Laude') from Bocconi University in 2019. The thesis was titled "Sensitivity Analysis and Machine Learning for Computationally Challenging Computer Codes." She was a post-doc research fellow at the Department of Energy at the Politecnico di Milano. In 2020, she joined the University of Edinburgh Business School as a lecturer. Since 2021, she has been part of SKEMA Business School, and were promoted to associate professor in 2025.
 
-Xuefei received her PhD in Statistics in 2019 at Bocconi University, Italy. Her thesis title is Sensitivity Analysis and Machine Learning for Computationally Challenging Computer Codes. She was a post-doc research fellow in the Department of Energy, Politecnico di Milano, Italy.
-
-Xuefei was a Lecturer in Predictive Analytics at the University of Edinburgh Business School, Scotland, from 2020 to 2021. 
-
-Her research interests include machine learning, uncertainty quantification and operations research problems. 
+In 2024, Xuefei received the Clemen-Kleinmuntz Decision Analysis Best Paper Award for the paper "Information Density in Decision Analysis." She is a council member of INFORMS Decision Analysis Society since 2023. She also serves on the Editorial Board of the European Journal of Operational Research since 2026.
