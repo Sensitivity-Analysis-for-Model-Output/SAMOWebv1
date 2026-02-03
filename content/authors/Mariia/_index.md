@@ -4,6 +4,12 @@ authors:
 bio: Associate Professor (Tenure Track).
 email: "Mariia.Kozlova@lut.fi"
 
+education:
+  courses:
+    - course: PhD in Strategic Finance
+      institution: LUT University, Lappeenranta, Finland
+      year: 2017
+
 interests:
 - Democratizing sensitivity analysis
 - SimDec (Simulation Decomposition)
