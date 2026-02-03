@@ -30,7 +30,7 @@ organizations:
   url: "https://commission.europa.eu/index_en"
 role: Co-president
 superuser: false
-title: Ivana Aleksovoska
+title: Ivana Aleksovska
 user_groups:
 - Executive Committee
 - Scientific Committee
