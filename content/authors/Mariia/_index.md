@@ -33,6 +33,6 @@ user_groups:
 
 I like to get to the bottom of things, whether it's investment analysis or engineering optimization. 
 
-It's frustrating to see decision-makers stuck in the passenger seat, passively evaluating static projects. I'm inviting them to the driver's seat, redesigning the models into a multitude of choices and helping find what really works under uncertainty.
+Bridging corporate experience, consulting practice, and academic deep dives, I focus on developing easy-to-use yet insight-rich methods for analyzing computational models. I enjoy working with teams from different backgrounds and helping them truly understand and improve their models.
 
 I'm open to research collaborations, guest lectures, and occasional consulting. Get in touch! 
