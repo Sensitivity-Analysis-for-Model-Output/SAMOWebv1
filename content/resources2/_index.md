@@ -15,7 +15,7 @@ Software packages and addons that are useful for performing sensitivity analysis
 
 :computer: [OpenTURNS](https://openturns.github.io/www/), an open source C++/Python library for the treatment of uncertainties, risks and statistics. See also its GUI: [Persalys](https://persalys.fr/index.php).
 
-:computer: [UQLab](https://www.uqlab.com/), a MATLAB-based uncertainty quantification framework with state-of-the art, highly optimized open source algorithms (and good documentation).
+:computer: Uncertainty quantification framework in MATLAB [UQLab](https://www.uqlab.com/) and Python [UQ[py]Lab](https://uqpylab.uq-cloud.io/) with state-of-the art, highly optimized open source algorithms (and good documentation).
 
 :computer: [SIML@B](https://web.jrc.ec.europa.eu/rapps/pub/simlab/) provides a set of online tools to perform uncertainty analysis and sensitivity analysis (UASA) of model output.
 
@@ -42,7 +42,7 @@ The following references give a good guide to sensitivity analysis and related t
 
 :book: de Rocquigny, E., Devictor, Nicolas., & Tarantola, Stefano. (2008). Uncertainty in industrial practice: A guide to quantitative uncertainty management. John Wiley & Sons.
 
-:book: Kozlova, M., & Yeomans, J. S. (Eds.). (2024). Sensitivity Analysis for Business, Technology, and Policymaking (1st edition). Routledge.
+:book: [Kozlova, M., & Yeomans, J. S. (Eds.). (2024). Sensitivity Analysis for Business, Technology, and Policymaking](https://doi.org/10.4324/9781003453789) (1st edition). Routledge.
 
 :book: Saltelli, A., Tarantola, S., Campolongo, F., & Ratto, M. (2004). [Sensitivity Analysis in Practice.](https://doi.org/10.1002/0470870958), John Wiley & Sons, Ltd.
 
