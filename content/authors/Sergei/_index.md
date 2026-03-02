@@ -7,12 +7,12 @@ education:
     year: 1991
 email: "email@email.com"
 interests:
--	Global Sensitivity Analysis and Uncertainty Quantification
--	Monte Carlo and Quasi-Monte Carlo methods
--	High-dimensional Sobol' generators
--	Metamodelling and Machine Learning
--	Global Optimization
--	Model reduction and feasibility analysis
+- Global Sensitivity Analysis & Uncertainty Quantification
+- Monte Carlo and Quasi-Monte Carlo methods
+- High-dimensional Sobol' generators
+- Metamodelling and Machine Learning
+- Global Optimization
+- Model reduction and feasibility analysis
 organizations:
 - name: Imperial College London
   url: "https://www.imperial.ac.uk/"
