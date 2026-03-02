@@ -7,7 +7,7 @@ education:
     year: 1991
 email: "email@email.com"
 interests:
--	Global Sensitivity Analysis & Uncertainty Quantification
+-	Global Sensitivity Analysis and Uncertainty Quantification
 -	Monte Carlo and Quasi-Monte Carlo methods
 -	High-dimensional Sobol' generators
 -	Metamodelling and Machine Learning
