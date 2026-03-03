@@ -23,9 +23,9 @@ tags:
 - Uncertainty analysis
 - Visualization of effects
 title: Sensitivity Analysis for Business, Technology, and Policymaking. Made Easy with Simulation Decomposition (SimDec)
-url_code: "https://doi.org/10.4324/9781003453789"
+url_code: "https://github.com/Simulation-Decomposition"
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://doi.org/10.4324/9781003453789"
 url_poster: ""
 url_project: ""
 url_slides: ""
