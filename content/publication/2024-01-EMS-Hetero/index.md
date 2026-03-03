@@ -26,9 +26,9 @@ tags:
 - Interaction effects
 - Heterogeneous effects
 title: Uncovering heterogeneous effects in computational models for sustainable decision-making
-url_code: "https://doi.org/10.1016/j.envsoft.2023.105898 "
+url_code: "https://github.com/Simulation-Decomposition"
 url_dataset: ""
-url_pdf: ""
+url_pdf: "https://doi.org/10.1016/j.envsoft.2023.105898 "
 url_poster: ""
 url_project: ""
 url_slides: ""
